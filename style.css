@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+.quadrado{
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.jogador, .vencedor{
+    font-size: 20px;
+    margin-top: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+    background: #eee;
+    cursor: pointer;
+}
+
+.titulo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(177, 0, 0);
+}
